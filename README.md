@@ -1,2 +1,2 @@
-# recipe-app-api
-Recipe App Project
+# scit-app-api
+SCIT backend Project
